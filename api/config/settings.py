@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'tagulous', # django tagging
     'blog', # blog app
     'home', # home app
+    'shop', # shop app
     'rest_framework', # rest framework
     'rest_framework.authtoken', # rest framework token
     'corsheaders', # cors headers

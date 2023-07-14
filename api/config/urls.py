@@ -9,4 +9,5 @@ urlpatterns = [
     path('api/', schema_view),
     path('api/', include('blog.urls')),
     path('api/', include('home.urls')),
+    path('api/', include('shop.urls')),
 ]
